@@ -108,7 +108,7 @@ python -m http.server 3000
 
 ### 📸 Podgląd aplikacji | Screenshots
 
-![UI Screenshot](assets/screen1.png)![Prediction Screenshot](assets/screen2.png)
+![UI Screenshot](screen1.png)![Prediction Screenshot](screen2.png)
 
 ---
 
